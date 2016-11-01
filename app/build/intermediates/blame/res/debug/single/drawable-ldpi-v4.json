@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\github-source\\ChatListDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "D:\\github-source\\ChatListDemo1\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\github-source\\ChatListDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "D:\\github-source\\ChatListDemo\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\github-source\\ChatListDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_bg_default.jpg",
+        "source": "D:\\github-source\\ChatListDemo\\app\\src\\main\\res\\drawable-hdpi\\chatting_bg_default.jpg"
+    },
+    {
+        "merged": "D:\\github-source\\ChatListDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatsystem_bg.png",
+        "source": "D:\\github-source\\ChatListDemo\\app\\src\\main\\res\\drawable-hdpi\\chatsystem_bg.png"
+    },
+    {
+        "merged": "D:\\github-source\\ChatListDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatsystem_bg.png",
+        "source": "D:\\github-source\\ChatListDemo1\\app\\src\\main\\res\\drawable-hdpi\\chatsystem_bg.png"
+    },
+    {
+        "merged": "D:\\github-source\\ChatListDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test.png",
+        "source": "D:\\github-source\\ChatListDemo\\app\\src\\main\\res\\drawable-hdpi\\test.png"
+    },
+    {
+        "merged": "D:\\github-source\\ChatListDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test.png",
+        "source": "D:\\github-source\\ChatListDemo1\\app\\src\\main\\res\\drawable-hdpi\\test.png"
+    },
+    {
+        "merged": "D:\\github-source\\ChatListDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\github-source\\ChatListDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\github-source\\ChatListDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing.png",
+        "source": "D:\\github-source\\ChatListDemo1\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing.png"
+    },
+    {
+        "merged": "D:\\github-source\\ChatListDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\github-source\\ChatListDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\github-source\\ChatListDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_normal.png",
+        "source": "D:\\github-source\\ChatListDemo\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\ChatListDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_group_voice_playing_f3.png",
+        "source": "D:\\github-source\\ChatListDemo1\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_group_voice_playing_f3.png"
+    },
+    {
+        "merged": "D:\\github-source\\ChatListDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_normal.png",
+        "source": "D:\\github-source\\ChatListDemo1\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\ChatListDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_normal.png",
+        "source": "D:\\github-source\\ChatListDemo\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\ChatListDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_normal.png",
+        "source": "D:\\github-source\\ChatListDemo1\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\ChatListDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mmfooter_bg.png",
+        "source": "D:\\github-source\\ChatListDemo1\\app\\src\\main\\res\\drawable-hdpi\\mmfooter_bg.png"
+    },
+    {
+        "merged": "D:\\github-source\\ChatListDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_group_voice_playing_f3.png",
+        "source": "D:\\github-source\\ChatListDemo\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_group_voice_playing_f3.png"
+    },
+    {
+        "merged": "D:\\github-source\\ChatListDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing.png",
+        "source": "D:\\github-source\\ChatListDemo\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing.png"
+    },
+    {
+        "merged": "D:\\github-source\\ChatListDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mmfooter_bg.png",
+        "source": "D:\\github-source\\ChatListDemo\\app\\src\\main\\res\\drawable-hdpi\\mmfooter_bg.png"
+    },
+    {
+        "merged": "D:\\github-source\\ChatListDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_bg_default.jpg",
+        "source": "D:\\github-source\\ChatListDemo1\\app\\src\\main\\res\\drawable-hdpi\\chatting_bg_default.jpg"
+    }
+]
